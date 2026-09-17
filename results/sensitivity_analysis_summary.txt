@@ -1,0 +1,40 @@
+Parkinson's Regional Enrichment Sensitivity Analysis
+=======================================================
+
+Primary analysis
+Regions tested: 183
+FDR-significant regions: 0
+
+Sensitivity analysis 1: all six donors
+Regions tested: 105
+FDR-significant regions: 0
+
+Top 10 all-six-donor regions:
+structure_acronym                               structure_name  number_of_donors  parkinsons_expression_score  enrichment_z_score  empirical_p_value  sensitivity_fdr_q_all_six  sensitivity_fdr_q_all_six_significant_0_05
+                S                              subiculum, left                 6                    -0.071058            3.058750           0.000800                   0.083992                                       False
+              CA4                              CA4 field, left                 6                     0.288621            2.582036           0.005999                   0.150135                                       False
+              SIG                     short insular gyri, left                 6                     0.075015            2.450758           0.007299                   0.150135                                       False
+              CA1                              CA1 field, left                 6                    -0.101027            2.410219           0.007499                   0.150135                                       False
+               LA                        lateral nucleus, left                 6                     0.148832            2.321014           0.011399                   0.150135                                       False
+              LGd      dorsal lateral geniculate nucleus, left                 6                     0.265944            2.295951           0.011499                   0.150135                                       False
+              CA2                              CA2 field, left                 6                    -0.211171            2.290670           0.012399                   0.150135                                       False
+          PHG-cos parahippocampal gyrus, left, bank of the cos                 6                    -0.040387            2.234687           0.012299                   0.150135                                       False
+              ATZ    amygdalohippocampal transition zone, left                 6                    -0.176024            2.222176           0.014299                   0.150135                                       False
+          FuG-cos            fusiform gyrus, left, bank of cos                 6                     0.100490            2.195188           0.013199                   0.150135                                       False
+
+Sensitivity analysis 2: preselected Parkinson's regions
+Regions tested: 8
+FDR-significant regions: 0
+
+structure_acronym                          structure_name  number_of_donors  parkinsons_expression_score  enrichment_z_score  empirical_p_value  sensitivity_fdr_q_targets  sensitivity_fdr_q_targets_significant_0_05
+              SNC   substantia nigra, pars compacta, left                 6                     0.226233            1.715076           0.042296                   0.338366                                       False
+              SNR substantia nigra, pars reticulata, left                 6                     0.421147           -0.946552           0.829717                   0.992201                                       False
+              TCd           tail of caudate nucleus, left                 6                    -0.248617           -1.070303           0.857714                   0.992201                                       False
+              HCd           head of caudate nucleus, left                 6                    -0.155726           -1.528992           0.937006                   0.992201                                       False
+              BCd           body of caudate nucleus, left                 6                    -0.163029           -1.768943           0.962004                   0.992201                                       False
+               Pu                           putamen, left                 6                    -0.034138           -1.949865           0.973303                   0.992201                                       False
+              GPi globus pallidus, internal segment, left                 6                     0.332597           -2.345526           0.990801                   0.992201                                       False
+              GPe globus pallidus, external segment, left                 5                     0.404955           -2.440451           0.992201                   0.992201                                       False
+
+Interpretation note:
+The target-region correction is appropriate only as a predefined hypothesis-family sensitivity analysis. It must not replace or be presented as the primary whole-brain test.

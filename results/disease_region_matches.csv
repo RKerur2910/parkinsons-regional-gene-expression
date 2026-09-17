@@ -1,0 +1,17 @@
+structure_id,structure_acronym,structure_name,total_sample_count,number_of_donors,matched_terms
+4288,Pu,"putamen, left",48,6,putamen
+4282,BCd,"body of caudate nucleus, left",25,6,caudate
+4280,HCd,"head of caudate nucleus, left",22,6,caudate
+9074,SNC,"substantia nigra, pars compacta, left",21,6,substantia nigra
+9075,SNR,"substantia nigra, pars reticulata, left",16,6,substantia nigra
+4295,GPe,"globus pallidus, external segment, left",15,5,globus pallidus
+4281,TCd,"tail of caudate nucleus, left",15,6,caudate
+4289,Pu,"putamen, right",14,2,putamen
+4286,BCd,"body of caudate nucleus, right",11,2,caudate
+4296,GPi,"globus pallidus, internal segment, left",11,6,globus pallidus
+4284,HCd,"head of caudate nucleus, right",10,2,caudate
+4298,GPe,"globus pallidus, external segment, right",8,2,globus pallidus
+9078,SNR,"substantia nigra, pars reticulata, right",8,2,substantia nigra
+4285,TCd,"tail of caudate nucleus, right",8,2,caudate
+9077,SNC,"substantia nigra, pars compacta, right",7,2,substantia nigra
+4299,GPi,"globus pallidus, internal segment, right",5,2,globus pallidus

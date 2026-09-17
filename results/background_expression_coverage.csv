@@ -1,0 +1,415 @@
+structure_id,structure_acronym,structure_name,number_of_donors,total_sample_count,number_of_genes
+4012,PrG-prc,"precentral gyrus, left, bank of the precentral sulcus",6,11,20598
+4013,PrG-sl,"precentral gyrus, left, superior lateral aspect of gyrus",6,19,20598
+4014,PrG-il,"precentral gyrus, left, inferior lateral aspect of gyrus",6,18,20598
+4015,PrG-cs,"precentral gyrus, left, bank of the central sulcus",5,14,20598
+4017,PrG-prc,"precentral gyrus, right, bank of the precentral sulcus",2,3,20598
+4018,PrG-sl,"precentral gyrus, right, superior lateral aspect of gyrus",2,5,20598
+4019,PrG-il,"precentral gyrus, right, inferior lateral aspect of gyrus",2,5,20598
+4020,PrG-cs,"precentral gyrus, right, bank of the central sulcus",2,7,20598
+4022,SFG,"superior frontal gyrus, left",1,1,20598
+4023,SFG-m,"superior frontal gyrus, left, medial bank of gyrus",6,43,20598
+4024,SFG-l,"superior frontal gyrus, left, lateral bank of gyrus",6,40,20598
+4026,SFG-m,"superior frontal gyrus, right, medial bank of gyrus",2,16,20598
+4027,SFG-l,"superior frontal gyrus, right, lateral bank of gyrus",2,15,20598
+4030,MFG-s,"middle frontal gyrus, left, superior bank of gyrus",6,33,20598
+4031,MFG-i,"middle frontal gyrus, left, inferior bank of gyrus",6,30,20598
+4033,MFG-s,"middle frontal gyrus, right, superior bank of gyrus",2,19,20598
+4034,MFG-i,"middle frontal gyrus, right, inferior bank of gyrus",2,15,20598
+4039,trIFG,"inferior frontal gyrus, triangular part, left",6,15,20598
+4040,trIFG,"inferior frontal gyrus, triangular part, right",2,3,20598
+4042,opIFG,"inferior frontal gyrus, opercular part, left",4,8,20598
+4043,opIFG,"inferior frontal gyrus, opercular part, right",2,3,20598
+4045,orIFG,"inferior frontal gyrus, orbital part, left",6,18,20598
+4046,orIFG,"inferior frontal gyrus, orbital part, right",2,5,20598
+4048,GRe,"gyrus rectus, left",6,20,20598
+4049,GRe,"gyrus rectus, right",2,10,20598
+4051,MOrG,"medial orbital gyrus, left",6,21,20598
+4052,MOrG,"medial orbital gyrus, right",2,6,20598
+4054,AOrG,"anterior orbital gyrus, left",3,5,20598
+4055,AOrG,"anterior orbital gyrus, right",1,1,20598
+4057,POrG,"posterior orbital gyrus, left",3,5,20598
+4058,POrG,"posterior orbital gyrus, right",2,3,20598
+4060,LOrG,"lateral orbital gyrus, left",6,15,20598
+4061,LOrG,"lateral orbital gyrus, right",2,5,20598
+4063,SCG,"subcallosal cingulate gyrus, left",4,6,20598
+4064,SCG,"subcallosal cingulate gyrus, right",2,2,20598
+4067,PTG,"paraterminal gyrus, right",1,1,20598
+4069,PaOG,"parolfactory gyri, left",5,7,20598
+4070,PaOG,"parolfactory gyri, right",1,1,20598
+4072,PCLa,"paracentral lobule, anterior part, left",2,2,20598
+4073,PCLa-s,"paracentral lobule, anterior part, left, superior bank of gyrus",5,14,20598
+4074,PCLa-i,"paracentral lobule, anterior part, left, inferior bank of gyrus",6,12,20598
+4076,PCLa-s,"paracentral lobule, anterior part, right, superior bank of gyrus",2,6,20598
+4077,PCLa-i,"paracentral lobule, anterior part, right, inferior bank of gyrus",2,5,20598
+4079,fro,"frontal operculum, left",6,13,20598
+4080,fro,"frontal operculum, right",2,4,20598
+4087,PoG-cs,"postcentral gyrus, left, bank of the central sulcus",6,18,20598
+4088,PoG-sl,"postcentral gyrus, left, superior lateral aspect of gyrus",6,21,20598
+4089,PoG-il,"postcentral gyrus, left, inferior lateral aspect of gyrus",5,13,20598
+4090,PoG-pcs,"postcentral gyrus, left, bank of the posterior central sulcus",5,10,20598
+4092,PoG-cs,"postcentral gyrus, right, bank of the central sulcus",2,8,20598
+4093,PoG-sl,"postcentral gyrus, right, superior lateral aspect of gyrus",2,9,20598
+4094,PoG-il,"postcentral gyrus, right, inferior lateral aspect of gyrus",2,7,20598
+4095,PoG-pcs,"postcentral gyrus, right, bank of the posterior central sulcus",2,3,20598
+4098,SPL-s,"superior parietal lobule, left, superior bank of gyrus",6,19,20598
+4099,SPL-i,"superior parietal lobule, left, inferior bank of gyrus",6,23,20598
+4101,SPL-s,"superior parietal lobule, right, superior bank of gyrus",2,6,20598
+4102,SPL-i,"superior parietal lobule, right, inferior bank of gyrus",2,4,20598
+4106,SMG-s,"supramarginal gyrus, left, superior bank of gyrus",6,16,20598
+4107,SMG-i,"supramarginal gyrus, left, inferior bank of gyrus",6,17,20598
+4109,SMG-s,"supramarginal gyrus, right, superior bank of gyrus",2,5,20598
+4110,SMG-i,"supramarginal gyrus, right, inferior bank of gyrus",2,6,20598
+4113,AnG-s,"angular gyrus, left, superior bank of gyrus",6,17,20598
+4114,AnG-i,"angular gyrus, left, inferior bank of gyrus",6,18,20598
+4116,AnG-s,"angular gyrus, right, superior bank of gyrus",2,5,20598
+4117,AnG-i,"angular gyrus, right, inferior bank of gyrus",2,7,20598
+4120,Pcu-s,"precuneus, left, superior lateral bank of gyrus",6,20,20598
+4121,Pcu-i,"precuneus, left, inferior lateral bank of gyrus",6,22,20598
+4123,Pcu-s,"precuneus, right, superior lateral bank of gyrus",2,5,20598
+4124,Pcu-i,"precuneus, right, inferior lateral bank of gyrus",2,5,20598
+4127,PCLp-l,"paracentral lobule, posterior part, left, lateral bank of gyrus",1,1,20598
+4128,PCLp-cs,"paracentral lobule, posterior part, left, bank of cingulate sulcus",1,2,20598
+4130,PCLp-l,"paracentral lobule, posterior part, right, lateral bank of gyrus",1,2,20598
+4131,PCLp-cs,"paracentral lobule, posterior part, right, bank of cingulate sulcus",1,1,20598
+4135,STG-l,"superior temporal gyrus, left, lateral bank of gyrus",6,27,20598
+4136,STG-i,"superior temporal gyrus, left, inferior bank of gyrus",6,28,20598
+4138,STG-l,"superior temporal gyrus, right, lateral bank of gyrus",1,4,20598
+4139,STG-i,"superior temporal gyrus, right, inferior bank of gyrus",2,10,20598
+4142,MTG-s,"middle temporal gyrus, left, superior bank of gyrus",6,36,20598
+4143,MTG-i,"middle temporal gyrus, left, inferior bank of gyrus",6,41,20598
+4145,MTG-s,"middle temporal gyrus, right, superior bank of gyrus",2,16,20598
+4146,MTG-i,"middle temporal gyrus, right, inferior bank of gyrus",2,17,20598
+4149,ITG-its,"inferior temporal gyrus, left, bank of the its",6,33,20598
+4150,ITG-l,"inferior temporal gyrus, left, lateral bank of gyrus",6,24,20598
+4151,ITG-mts,"inferior temporal gyrus, left, bank of mts",6,30,20598
+4153,ITG-its,"inferior temporal gyrus, right, bank of the its",2,15,20598
+4154,ITG-l,"inferior temporal gyrus, right, lateral bank of gyrus",2,11,20598
+4155,ITG-mts,"inferior temporal gyrus, right, bank of mts",2,12,20598
+4158,FuG-its,"fusiform gyrus, left, bank of the its",6,20,20598
+4159,FuG-l,"fusiform gyrus, left, lateral bank of gyrus",5,18,20598
+4160,FuG-cos,"fusiform gyrus, left, bank of cos",6,19,20598
+4162,FuG-its,"fusiform gyrus, right, bank of the its",2,8,20598
+4163,FuG-l,"fusiform gyrus, right, lateral bank of gyrus",2,5,20598
+4164,FuG-cos,"fusiform gyrus, right, bank of cos",2,6,20598
+4166,HG,"Heschl's gyrus, left",6,11,20598
+4167,HG,"Heschl's gyrus, right",2,5,20598
+4169,TG,"transverse gyri, left",5,8,20598
+4170,TG,"transverse gyri, right",2,3,20598
+4172,PLT,"planum temporale, left",4,9,20598
+4173,PLT,"planum temporale, right",2,3,20598
+4178,PLP,"planum polare, left",6,18,20598
+4179,PLP,"planum polare, right",2,3,20598
+4186,Cun-pest,"cuneus, left, peristriate",6,19,20598
+4187,Cun-str,"cuneus, left, striate",6,16,20598
+4189,Cun-pest,"cuneus, right, peristriate",2,2,20598
+4190,Cun-str,"cuneus, right, striate",2,3,20598
+4193,LiG-pest,"lingual gyrus, left, peristriate",6,29,20598
+4194,LiG-str,"lingual gyrus, left, striate",6,25,20598
+4196,LiG-pest,"lingual gyrus, right, peristriate",2,7,20598
+4197,LiG-str,"lingual gyrus, right, striate",2,8,20598
+4200,OTG-s,"occipito-temporal gyrus, left, superior bank of gyrus",6,17,20598
+4201,OTG-i,"occipito-temporal gyrus, left, inferior bank of gyrus",6,14,20598
+4203,OTG-s,"occipito-temporal gyrus, right, superior bank of gyrus",2,4,20598
+4204,OTG-i,"occipito-temporal gyrus, right, inferior bank of gyrus",2,5,20598
+4207,IOG-s,"inferior occipital gyrus, left, superior bank of gyrus",5,13,20598
+4208,IOG-i,"inferior occipital gyrus, left, inferior bank of gyrus",5,15,20598
+4210,IOG-s,"inferior occipital gyrus, right, superior bank of gyrus",1,1,20598
+4211,IOG-i,"inferior occipital gyrus, right, inferior bank of gyrus",1,3,20598
+4214,SOG-s,"superior occipital gyrus, left, superior bank of gyrus",6,13,20598
+4215,SOG-i,"superior occipital gyrus, left, inferior bank of gyrus",5,11,20598
+4217,SOG-s,"superior occipital gyrus, right, superior bank of gyrus",2,3,20598
+4218,SOG-i,"superior occipital gyrus, right, inferior bank of gyrus",1,1,20598
+4223,CgGf-s,"cingulate gyrus, frontal part, left, superior bank of gyrus",6,31,20598
+4224,CgGf-i,"cingulate gyrus, frontal part, left, inferior bank of gyrus",6,35,20598
+4226,CgGf-s,"cingulate gyrus, frontal part, right, superior bank of gyrus",2,11,20598
+4227,CgGf-i,"cingulate gyrus, frontal part, right, inferior bank of gyrus",2,6,20598
+4230,CgGp-s,"cingulate gyrus, parietal part, left, superior bank of gyrus",6,18,20598
+4231,CgGp-i,"cingulate gyrus, parietal part, left, inferior bank of gyrus",5,17,20598
+4233,CgGp-s,"cingulate gyrus, parietal part, right, superior bank of gyrus",2,3,20598
+4234,CgGp-i,"cingulate gyrus, parietal part, right, inferior bank of gyrus",2,4,20598
+4237,CgGr-s,"cingulate gyrus, retrosplenial part, left, superior bank of gyrus",3,5,20598
+4238,CgGr-i,"cingulate gyrus, retrosplenial part, left, inferior bank of gyrus",3,6,20598
+4240,CgGr-s,"cingulate gyrus, retrosplenial part, right, superior bank of gyrus",1,1,20598
+4241,CgGr-i,"cingulate gyrus, retrosplenial part, right, inferior bank of gyrus",1,3,20598
+4244,PHG-l,"parahippocampal gyrus, left, lateral bank of gyrus",6,26,20598
+4245,PHG-cos,"parahippocampal gyrus, left, bank of the cos",6,20,20598
+4247,PHG-l,"parahippocampal gyrus, right, lateral bank of gyrus",2,5,20598
+4248,PHG-cos,"parahippocampal gyrus, right, bank of the cos",2,7,20598
+4251,S,"subiculum, left",6,25,20598
+4254,CA1,"CA1 field, left",6,24,20598
+4255,CA2,"CA2 field, left",6,19,20598
+4256,CA3,"CA3 field, left",6,21,20598
+4257,CA4,"CA4 field, left",6,20,20598
+4258,DG,"dentate gyrus, left",6,21,20598
+4260,S,"subiculum, right",2,9,20598
+4263,CA1,"CA1 field, right",2,12,20598
+4264,CA2,"CA2 field, right",2,9,20598
+4265,CA3,"CA3 field, right",2,9,20598
+4266,CA4,"CA4 field, right",2,10,20598
+4267,DG,"dentate gyrus, right",2,9,20598
+4270,LIG,"long insular gyri, left",6,17,20598
+4271,LIG,"long insular gyri, right",2,5,20598
+4273,SIG,"short insular gyri, left",6,16,20598
+4274,SIG,"short insular gyri, right",2,6,20598
+4280,HCd,"head of caudate nucleus, left",6,22,20598
+4281,TCd,"tail of caudate nucleus, left",6,15,20598
+4282,BCd,"body of caudate nucleus, left",6,25,20598
+4284,HCd,"head of caudate nucleus, right",2,10,20598
+4285,TCd,"tail of caudate nucleus, right",2,8,20598
+4286,BCd,"body of caudate nucleus, right",2,11,20598
+4288,Pu,"putamen, left",6,48,20598
+4289,Pu,"putamen, right",2,14,20598
+4291,Acb,"nucleus accumbens, left",6,13,20598
+4292,Acb,"nucleus accumbens, right",2,4,20598
+4295,GPe,"globus pallidus, external segment, left",5,15,20598
+4296,GPi,"globus pallidus, internal segment, left",6,11,20598
+4298,GPe,"globus pallidus, external segment, right",2,8,20598
+4299,GPi,"globus pallidus, internal segment, right",2,5,20598
+4301,SptN,"septal nuclei, left",5,10,20598
+4304,SptN,"septal nuclei, right",2,4,20598
+4307,SI,"substantia innominata, left",2,5,20598
+4308,nbM,"basal nucleus of meynert, left",4,9,20598
+4310,DBv,"nucleus of the diagonal band, left, horizontal division",4,5,20598
+4311,DBh,"nucleus of the diagonal band, left, vertical division",4,4,20598
+4313,BST,"bed  nucleus of stria terminalis, left",4,5,20598
+4314,SI,"substantia innominata, right",2,4,20598
+4322,Cl,"claustrum, left",6,33,20598
+4323,Cl,"claustrum, right",2,14,20598
+4329,ATZ,"amygdalohippocampal transition zone, left",6,7,20598
+4335,ATZ,"amygdalohippocampal transition zone, right",1,2,20598
+4342,BLA,"basolateral nucleus, left",6,10,20598
+4346,BLA,"basolateral nucleus, right",1,3,20598
+4351,BMA,"basomedial nucleus, left",6,9,20598
+4355,BMA,"basomedial nucleus, right",1,3,20598
+4360,CeA,"central nucleus, left",6,8,20598
+4363,CeA,"central nucleus, right",1,1,20598
+4367,COMA,"cortico-medial group, left",6,9,20598
+4371,COMA,"cortico-medial group, right",1,2,20598
+4379,LA,"lateral nucleus, left",6,11,20598
+4382,LA,"lateral nucleus, right",1,2,20598
+4395,DTA,"anterior group of nuclei, left",6,19,20598
+4400,DTM,"medial group of nuclei, left",6,18,20598
+4409,DTLd,"lateral group of nuclei, left, dorsal division",6,13,20598
+4417,DTLv,"lateral group of nuclei, left, ventral division",6,20,20598
+4428,DTP,"posterior group of nuclei, left",5,6,20598
+4432,ILr,"rostral group of intralaminar nuclei, left",6,15,20598
+4437,ILc,"caudal group of intralaminar nuclei, left",6,7,20598
+4440,LGd,"dorsal lateral geniculate nucleus, left",6,13,20598
+4444,MG,"medial geniculate complex, left",5,9,20598
+4450,DTA,"anterior group of nuclei, right",2,9,20598
+4455,DTM,"medial group of nuclei, right",2,8,20598
+4464,DTLd,"lateral group of nuclei, right, dorsal division",2,5,20598
+4472,DTLv,"lateral group of nuclei, right, ventral division",2,13,20598
+4483,DTP,"posterior group of nuclei, right",2,3,20598
+4487,ILr,"rostral group of intralaminar nuclei, right",2,7,20598
+4492,ILc,"caudal group of intralaminar nuclei, right",2,4,20598
+4495,LGd,"dorsal lateral geniculate nucleus, right",2,4,20598
+4499,MG,"medial geniculate complex, right",1,2,20598
+4506,R,"reticular nucleus of thalamus, left",6,15,20598
+4507,ZI,"zona incerta, left",6,10,20598
+4512,R,"reticular nucleus of thalamus, right",2,7,20598
+4513,ZI,"zona incerta, right",2,2,20598
+4518,Sb,"subthalamic nucleus, left",6,11,20598
+4519,Sb,"subthalamic nucleus, right",2,3,20598
+4523,Hm,"medial habenular nucleus, left",1,1,20598
+4524,Hl,"lateral habenular nucleus, left",2,2,20598
+4528,Hm,"medial habenular nucleus, right",1,1,20598
+4529,Hl,"lateral habenular nucleus, right",1,1,20598
+4532,PIN,pineal gland,1,1,20598
+4534,Pa,"paraventricular nuclei, left of thalamus, left",3,5,20598
+4537,Pa,"paraventricular nuclei, right of thalamus, right",2,4,20598
+4542,PrOR,"preoptic region, left",6,6,20598
+4556,PrOR,"preoptic region, right",2,2,20598
+4573,PVH,"paraventricular nucleus of the hypothalamus, left",5,7,20598
+4593,SO,"supraoptic nucleus, left",5,6,20598
+4596,LHA,"lateral hypothalamic area, anterior region, left",4,4,20598
+4597,PalHy,"pallidohypothalamic nucleus, left",3,3,20598
+4598,AHA,"anterior hypothalamic area, left",2,2,20598
+4604,PVH,"paraventricular nucleus of the hypothalamus, right",1,2,20598
+4624,SO,"supraoptic nucleus, right",2,2,20598
+4627,LHA,"lateral hypothalamic area, anterior region, right",1,1,20598
+4629,AHA,"anterior hypothalamic area, right",1,1,20598
+4637,VMH,"ventromedial hypothalamic nucleus, left",5,6,20598
+4641,DMH,"dorsomedial hypothalamic nucleus, left",4,5,20598
+4644,ARH,"arcuate nucleus of the hypothalamus, left",3,3,20598
+4648,PeF,"perifornical nucleus, left",4,5,20598
+4652,VMH,"ventromedial hypothalamic nucleus, right",1,1,20598
+4659,ARH,"arcuate nucleus of the hypothalamus, right",1,1,20598
+4667,TM,"tuberomammillary nucleus, left",4,4,20598
+4669,SuM,"supramammillary nucleus, left",4,4,20598
+4671,MB,"mammillary body, left",1,1,20598
+4672,MM,"medial mammillary nucleus, left",4,6,20598
+4675,LM,"lateral mammillary nucleus, left",4,4,20598
+4679,PHA,"posterior hypothalamic area, left",6,7,20598
+4685,MB,"mammillary body, right",1,1,20598
+4693,PHA,"posterior hypothalamic area, right",2,2,20598
+4700,Ve-I-II,I-II,3,5,20598
+4701,Ve-III,III,4,9,20598
+4702,Ve-IV,IV,4,7,20598
+4703,Ve-V,V,4,8,20598
+4705,Ve-VI,VI,4,7,20598
+4706,Ve-VIIAf,VIIAf,3,5,20598
+4707,Ve-VIIAt,VIIAt,4,7,20598
+4708,Ve-VIIB,VIIB,4,7,20598
+4709,Ve-VIIIA,VIIIA,4,7,20598
+4710,Ve-VIIIB,VIIIB,4,7,20598
+4711,Ve-IX,IX,4,7,20598
+4713,Ve-X,X,3,5,20598
+4718,PV-III,"III, left, paravermis",4,7,20598
+4719,PV-IV,"IV, left, paravermis",5,9,20598
+4720,PV-V,"V, left, paravermis",6,11,20598
+4722,PV-VI,"VI, left, paravermis",6,11,20598
+4723,PV-Crus I,"Crus I, left, paravermis",6,11,20598
+4724,PV-Crus II,"Crus II, left, paravermis",5,9,20598
+4725,PV-VIIB,"VIIB, left, paravermis",6,11,20598
+4726,PV-VIIIA,"VIIIA, left, paravermis",5,9,20598
+4727,PV-VIIIB,"VIIIB, left, paravermis",5,8,20598
+4728,PV-IX,"IX, left, paravermis",5,9,20598
+4730,PV-X,"X, left, paravermis",1,2,20598
+4734,He-III,"III, left, lateral hemisphere",2,4,20598
+4735,He-IV,"IV, left, lateral hemisphere",4,8,20598
+4736,He-V,"V, left, lateral hemisphere",4,10,20598
+4738,He-VI,"VI, left, lateral hemisphere",6,15,20598
+4739,He-Crus I,"Crus I, left, lateral hemisphere",6,19,20598
+4740,He-Crus II,"Crus II, left, lateral hemisphere",6,17,20598
+4741,He-VIIB,"VIIB, left, lateral hemisphere",6,15,20598
+4742,He-VIIIA,"VIIIA, left, lateral hemisphere",5,13,20598
+4743,He-VIIIB,"VIIIB, left, lateral hemisphere",4,7,20598
+4744,He-IX,"IX, left, lateral hemisphere",2,4,20598
+4746,He-X,"X, left, lateral hemisphere",3,5,20598
+4751,PV-III,"III, right, paravermis",1,1,20598
+4752,PV-IV,"IV, right, paravermis",2,3,20598
+4753,PV-V,"V, right, paravermis",2,3,20598
+4755,PV-VI,"VI, right, paravermis",2,3,20598
+4756,PV-Crus I,"Crus I, right, paravermis",2,3,20598
+4757,PV-Crus II,"Crus II, right, paravermis",2,3,20598
+4758,PV-VIIB,"VIIB, right, paravermis",2,3,20598
+4759,PV-VIIIA,"VIIIA, right, paravermis",2,3,20598
+4760,PV-VIIIB,"VIIIB, right, paravermis",2,2,20598
+4761,PV-IX,"IX, right, paravermis",2,3,20598
+4771,He-VI,"VI, right, lateral hemisphere",2,3,20598
+4772,He-Crus I,"Crus I, right, lateral hemisphere",2,3,20598
+4773,He-Crus II,"Crus II, right, lateral hemisphere",2,5,20598
+4774,He-VIIB,"VIIB, right, lateral hemisphere",2,2,20598
+4775,He-VIIIA,"VIIIA, right, lateral hemisphere",1,2,20598
+4782,Dt,"dentate nucleus, left",6,13,20598
+4783,Emb,"emboliform nucleus, left",2,2,20598
+4784,Fas,"fastigial nucleus, left",2,3,20598
+4785,Glo,"globose nucleus, left",3,3,20598
+4787,Dt,"dentate nucleus, right",2,4,20598
+4788,Emb,"emboliform nucleus, right",2,2,20598
+4789,Fas,"fastigial nucleus, right",2,2,20598
+4790,Glo,"globose nucleus, right",2,2,20598
+4890,FP-s,"frontal pole, left, superior aspect",2,3,20598
+4891,FPi,"frontal pole, left, inferior aspect",1,4,20598
+4892,FPm,"frontal pole, left, medial aspect",1,1,20598
+4894,FP-s,"frontal pole, right, superior aspect",1,2,20598
+4895,FPi,"frontal pole, right, inferior aspect",1,1,20598
+4896,FPm,"frontal pole, right, medial aspect",1,1,20598
+4898,SRoG,"superior rostral gyrus, left",4,7,20598
+4899,SRoG,"superior rostral gyrus, right",2,2,20598
+4901,IRoG,"inferior rostral gyrus, left",5,9,20598
+4902,IRoG,"inferior rostral gyrus, right",2,5,20598
+4903,TP-s,"temporal pole, left, superior aspect",5,8,20598
+4904,TP-i,"temporal pole, left, inferior aspect",4,6,20598
+4905,TP-m,"temporal pole, left, medial aspect",4,6,20598
+4906,TP-s,"temporal pole, right, superior aspect",2,3,20598
+4907,TP-i,"temporal pole, right, inferior aspect",2,5,20598
+4908,TP-m,"temporal pole, right, medial aspect",2,2,20598
+4909,OPs,"occipital pole, left, superior aspect",1,1,20598
+4910,OPi,"occipital pole, left, inferior aspect",1,1,20598
+4911,OPl,"occipital pole, left, lateral aspect",1,1,20598
+9004,CGMB,"central gray substance of midbrain, left",5,18,20598
+9005,CGMB,"central gray substance of midbrain, right",2,8,20598
+9016,ICjl,"interstitial nucleus of Cajal, left",2,2,20598
+9017,ICjl,"interstitial nucleus of Cajal, right",1,1,20598
+9019,MBRF,"midbrain reticular formation, left",1,2,20598
+9020,CnF,"cuneiform nucleus, left",4,7,20598
+9022,SubCn,"subcuneiform nucleus, left",5,6,20598
+9023,MBRF,"midbrain reticular formation, right",1,2,20598
+9024,CnF,"cuneiform nucleus, right",1,2,20598
+9026,SubCn,"subcuneiform nucleus, right",2,3,20598
+9031,3,"oculomotor nuclear complex, left",3,3,20598
+9039,3,"oculomotor nuclear complex, right",2,3,20598
+9048,Dk,"nucleus of Darkschewitsch, left",2,2,20598
+9054,RN,"red nucleus, left",6,11,20598
+9057,RN,"red nucleus, right",2,5,20598
+9064,4,"trochlear nucleus, left",2,3,20598
+9065,4,"trochlear nucleus, right",2,3,20598
+9067,VTA,"ventral tegmental area, left",6,13,20598
+9068,VTA,"ventral tegmental area, right",2,3,20598
+9074,SNC,"substantia nigra, pars compacta, left",6,21,20598
+9075,SNR,"substantia nigra, pars reticulata, left",6,16,20598
+9077,SNC,"substantia nigra, pars compacta, right",2,7,20598
+9078,SNR,"substantia nigra, pars reticulata, right",2,8,20598
+9079,PTec,pretectal region,3,4,20598
+9103,IC,"inferior colliculus, left",4,7,20598
+9115,SC,"superior colliculus, left",4,6,20598
+9123,SC,"superior colliculus, right",1,1,20598
+9137,6,"abducens nucleus, left",5,7,20598
+9138,6,"abducens nucleus, right",2,3,20598
+9143,7,"facial motor nucleus, left",5,11,20598
+9144,7,"facial motor nucleus, right",2,3,20598
+9146,LPB,"lateral parabrachial nucleus, left",5,7,20598
+9147,LPB,"lateral parabrachial nucleus, right",1,2,20598
+9149,LC,"locus ceruleus, left",4,9,20598
+9150,LC,"locus ceruleus, right",2,4,20598
+9152,MPB,"medial parabrachial nucleus, left",5,9,20598
+9153,MPB,"medial parabrachial nucleus,right",2,3,20598
+9155,SubC,"nucleus subceruleus, left",5,8,20598
+9156,SubC,"nucleus subceruleus, right",2,4,20598
+9157,RPn,pontine raphe nucleus,2,2,20598
+9158,RPn,"pontine raphe nucleus, left",3,5,20598
+9161,PRF,"pontine reticular formation, left",6,16,20598
+9169,PRF,"pontine reticular formation, right",2,8,20598
+9178,SOC,"superior olivary complex, left",5,12,20598
+9186,SOC,"superior olivary complex, right",2,5,20598
+9206,Mo5,"motor nucleus of trigeminal nerve, left",5,8,20598
+9207,Pr5,"principal sensory nucleus of trigeminal nerve, left",4,6,20598
+9213,Mo5,"motor nucleus of trigeminal nerve, right",2,2,20598
+9214,Pr5,"principal sensory nucleus of trigeminal nerve, right",2,3,20598
+9222,cc,corpus callosum,6,13,20598
+9241,cgb,"cingulum bundle, left",1,1,20598
+9242,cgb,"cingulum bundle, right",1,1,20598
+9450,EW,"Edinger-Westphal nucleus, left",2,2,20598
+9451,EW,"Edinger-Westphal nucleus, right",1,1,20598
+9455,MBRa,midbrain raphe nuclei,2,7,20598
+9456,MBRa,"midbrain raphe nuclei, left",3,5,20598
+9492,Pn,"pontine nuclei, left",6,35,20598
+9493,Pn,"pontine nuclei, right",2,13,20598
+9520,Arc,"arcuate nucleus of medulla, left",6,18,20598
+9521,Arc,"arcuate nucleus of medulla, right",2,6,20598
+9525,CGS,central glial substance,4,9,20598
+9529,8Co,"cochlear nuclei, left",5,7,20598
+9534,8Co,"cochlear nuclei, right",1,1,20598
+9543,Cu,"cuneate nucleus, left",6,16,20598
+9544,Cu,"cuneate nucleus, right",2,6,20598
+9546,10,"dorsal motor nucleus of the vagus, left",4,10,20598
+9547,10,"dorsal motor nucleus of the vagus, right",2,6,20598
+9555,Gr,"gracile nucleus, left",3,3,20598
+9556,Gr,"gracile nucleus, right",2,6,20598
+9558,12,"hypoglossal nucleus, left",4,9,20598
+9559,12,"hypoglossal nucleus, right",2,6,20598
+9561,IO,"inferior olivary complex, left",6,21,20598
+9565,IO,"inferior olivary complex, right",2,8,20598
+9589,CMRt,"central medullary reticular group, left",4,9,20598
+9593,CMRt,"central medullary reticular group, right",2,6,20598
+9598,GiRt,"gigantocellular group, left",6,19,20598
+9604,GiRt,"gigantocellular group, right",2,5,20598
+9614,LMRt,"lateral medullary reticular group, left",6,13,20598
+9619,LMRt,"lateral medullary reticular group, right",2,7,20598
+9642,RaM,raphe nuclei of medulla,6,16,20598
+9677,Sp5,"spinal trigeminal nucleus, left",6,35,20598
+9684,Sp5,"spinal trigeminal nucleus, right",2,12,20598
+9698,8Ve,"vestibular nuclei, left",6,18,20598
+9703,8Ve,"vestibular nuclei, right",2,7,20598
+9708,CPLV,choroid plexus of the lateral ventricle,3,5,20598
+10143,Pir,"piriform cortex, left",3,3,20598
+10145,OlfT,"olfactory tubercle, left",4,5,20598
+10148,CGPo,"central gray of the pons, left",2,3,20598
+10149,CGPo,"central gray of the pons, right",1,1,20598
+10151,LTu,"lateral tuberal nucleus, left",4,4,20598
+13005,LHM,"lateral hypothalamic area, mammillary region, left",6,6,20598
+13006,LHM,"lateral hypothalamic area, mammillary region, right",2,2,20598
+13008,LHT,"lateral hypothalamic area, tuberal region, left",4,4,20598

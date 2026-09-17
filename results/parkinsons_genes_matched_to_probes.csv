@@ -1,0 +1,514 @@
+gene_symbol,probe_id,probe_name,gene_id,gene_name,entrez_id,chromosome
+APOE,1059132,A_23_P164650,345,apolipoprotein E,348.0,19
+APOE,1059133,A_32_P93036,345,apolipoprotein E,348.0,19
+APOE,1067762,A_24_P788772,345,apolipoprotein E,348.0,19
+ARHGEF2,1019068,A_23_P51699,9057,Rho/Rac guanine nucleotide exchange factor (GEF) 2,9181.0,1
+ARHGEF2,1048871,CUST_8958_PI416261804,9057,Rho/Rac guanine nucleotide exchange factor (GEF) 2,9181.0,1
+ASH1L,1041471,A_23_P63083,35158,"ash1 (absent, small, or homeotic)-like (Drosophila)",55870.0,1
+ASH1L,1041472,A_24_P367666,35158,"ash1 (absent, small, or homeotic)-like (Drosophila)",55870.0,1
+ASNS,1026103,A_23_P145694,437,asparagine synthetase (glutamine-hydrolyzing),440.0,7
+ASNS,1026104,CUST_11527_PI416261804,437,asparagine synthetase (glutamine-hydrolyzing),440.0,7
+ASXL3,1015239,A_32_P389544,56587,additional sex combs like 3 (Drosophila),80816.0,18
+ASXL3,1015423,A_32_P386298,56587,additional sex combs like 3 (Drosophila),80816.0,18
+ASXL3,1016305,A_23_P381746,56587,additional sex combs like 3 (Drosophila),80816.0,18
+BAG3,1048474,A_23_P52552,9390,BCL2-associated athanogene 3,9531.0,10
+BAG3,1048475,A_23_P47077,9390,BCL2-associated athanogene 3,9531.0,10
+BBS9,1022575,A_23_P82351,26986,Bardet-Biedl syndrome 9,27241.0,7
+BBS9,1022576,CUST_9548_PI416261804,26986,Bardet-Biedl syndrome 9,27241.0,7
+BCKDK,1011486,A_23_P3823,10149,branched chain ketoacid dehydrogenase kinase,10295.0,16
+BCKDK,1019002,A_23_P365149,10149,branched chain ketoacid dehydrogenase kinase,10295.0,16
+BCL9,1058854,A_23_P382602,604,B-cell CLL/lymphoma 9,607.0,1
+BCL9,1058855,CUST_9885_PI416261804,604,B-cell CLL/lymphoma 9,607.0,1
+BIN3,1041427,A_23_P43086,35196,bridging integrator 3,55909.0,8
+BIN3,1041428,A_24_P115443,35196,bridging integrator 3,55909.0,8
+BIN3,1041429,A_24_P115450,35196,bridging integrator 3,55909.0,8
+BRD3,1050009,A_23_P216689,7971,bromodomain containing 3,8019.0,9
+BRD3,1050010,A_24_P32887,7971,bromodomain containing 3,8019.0,9
+BRIP1,1037918,A_23_P15844,58206,BRCA1 interacting protein C-terminal helicase 1,83990.0,17
+BST1,1058746,A_23_P7325,679,bone marrow stromal cell antigen 1,683.0,4
+BST1,1058747,CUST_14605_PI416261804,679,bone marrow stromal cell antigen 1,683.0,4
+C5ORF24,1015240,A_24_P337504,79612,chromosome 5 open reading frame 24,134553.0,5
+C5ORF24,1020488,A_23_P433829,79612,chromosome 5 open reading frame 24,134553.0,5
+CAB39L,1011604,A_24_P56363,57299,calcium binding protein 39-like,81617.0,13
+CAB39L,1020073,A_23_P204879,57299,calcium binding protein 39-like,81617.0,13
+CAMK2D,1013642,A_32_P47988,813,calcium/calmodulin-dependent protein kinase II delta,817.0,4
+CAMK2D,1017819,A_23_P144458,813,calcium/calmodulin-dependent protein kinase II delta,817.0,4
+CAMK2D,1027100,A_32_P168660,813,calcium/calmodulin-dependent protein kinase II delta,817.0,4
+CAMK2D,1027101,A_24_P114739,813,calcium/calmodulin-dependent protein kinase II delta,817.0,4
+CAPN13,1036609,A_23_P101972,60161,calpain 13,92291.0,2
+CAPN13,1036610,A_24_P336983,60161,calpain 13,92291.0,2
+CARS2,1039201,A_23_P128624,55390,"cysteinyl-tRNA synthetase 2, mitochondrial (putative)",79587.0,13
+CARS2,1039202,A_23_P117238,55390,"cysteinyl-tRNA synthetase 2, mitochondrial (putative)",79587.0,13
+CC2D2A,1011388,A_23_P413285,36818,coiled-coil and C2 domain containing 2A,57545.0,4
+CC2D2A,1018275,A_23_P348383,36818,coiled-coil and C2 domain containing 2A,57545.0,4
+CCDC62,1029581,A_24_P338585,58858,coiled-coil domain containing 62,84660.0,12
+CCDC62,1029582,A_23_P2258,58858,coiled-coil domain containing 62,84660.0,12
+CCDC85A,1014186,CUST_186_PI416261804,77524,coiled-coil domain containing 85A,114800.0,2
+CCDC85A,1017604,A_23_P349566,77524,coiled-coil domain containing 85A,114800.0,2
+CCT3,1029523,A_23_P160631,7160,"chaperonin containing TCP1, subunit 3 (gamma)",7203.0,1
+CCT3,1029524,CUST_10350_PI416261804,7160,"chaperonin containing TCP1, subunit 3 (gamma)",7203.0,1
+CD19,1058473,A_23_P113572,925,CD19 molecule,930.0,16
+CD19,1058474,CUST_9454_PI416261804,925,CD19 molecule,930.0,16
+CHRNB1,1058196,A_23_P207106,1132,"cholinergic receptor, nicotinic, beta 1 (muscle)",1140.0,17
+CHRNB1,1058197,A_24_P27627,1132,"cholinergic receptor, nicotinic, beta 1 (muscle)",1140.0,17
+CLCN3,1025182,A_23_P124476,1173,"chloride channel, voltage-sensitive 3",1182.0,4
+CLCN3,1025183,CUST_179_PI416408490,1173,"chloride channel, voltage-sensitive 3",1182.0,4
+CLCN3,1025184,A_24_P402847,1173,"chloride channel, voltage-sensitive 3",1182.0,4
+CNOT6L,1033005,A_24_P291680,89687,"CCR4-NOT transcription complex, subunit 6-like",246175.0,4
+CNOT6L,1033006,A_24_P690285,89687,"CCR4-NOT transcription complex, subunit 6-like",246175.0,4
+CNOT6L,1033007,A_23_P110304,89687,"CCR4-NOT transcription complex, subunit 6-like",246175.0,4
+CNTN1,1058103,A_23_P390700,1263,contactin 1,1272.0,12
+CNTN1,1058104,CUST_11199_PI416261804,1263,contactin 1,1272.0,12
+COL3A1,1058092,A_24_P935491,1272,"collagen, type III, alpha 1",1281.0,2
+COL3A1,1058093,A_23_P142533,1272,"collagen, type III, alpha 1",1281.0,2
+COL3A1,1058094,A_32_P226656,1272,"collagen, type III, alpha 1",1281.0,2
+COL3A1,1058095,A_24_P402242,1272,"collagen, type III, alpha 1",1281.0,2
+COMMD1,1034390,A_23_P389525,80915,copper metabolism (Murr1) domain containing 1,150684.0,2
+COMMD1,1034391,A_32_P131562,80915,copper metabolism (Murr1) domain containing 1,150684.0,2
+CRLS1,1020322,A_23_P400435,33966,cardiolipin synthase 1,54675.0,20
+CTSB,1030215,A_24_P397928,1497,cathepsin B,1508.0,8
+CTSB,1030216,A_23_P215944,1497,cathepsin B,1508.0,8
+CTSB,1030217,A_24_P303770,1497,cathepsin B,1508.0,8
+DCST1,1014309,CUST_9442_PI416261804,80764,DC-STAMP domain containing 1,149095.0,1
+DCST1,1018959,A_23_P341527,80764,DC-STAMP domain containing 1,149095.0,1
+DCST1,1034485,CUST_9441_PI416261804,80764,DC-STAMP domain containing 1,149095.0,1
+DCUN1D1,1042987,A_24_P166012,33458,"DCN1, defective in cullin neddylation 1, domain containing 1 (S. cerevisiae)",54165.0,3
+DCUN1D1,1060966,A_23_P144151,33458,"DCN1, defective in cullin neddylation 1, domain containing 1 (S. cerevisiae)",54165.0,3
+DDRGK1,1039498,A_23_P403971,41835,DDRGK domain containing 1,65992.0,20
+DDRGK1,1039499,CUST_7515_PI416261804,41835,DDRGK domain containing 1,65992.0,20
+DGKQ,1057741,A_23_P132932,1597,"diacylglycerol kinase, theta 110kDa",1609.0,4
+DGKQ,1057742,CUST_10884_PI416261804,1597,"diacylglycerol kinase, theta 110kDa",1609.0,4
+DIRC1,1036088,A_23_P131139,77734,disrupted in renal carcinoma 1,116093.0,2
+DIRC1,1036089,CUST_8549_PI416261804,77734,disrupted in renal carcinoma 1,116093.0,2
+DLG2,1011473,A_32_P229618,1728,"discs, large homolog 2 (Drosophila)",1740.0,11
+DLG2,1014060,A_23_P422872,1728,"discs, large homolog 2 (Drosophila)",1740.0,11
+DLG2,1015299,A_23_P124514,1728,"discs, large homolog 2 (Drosophila)",1740.0,11
+DLG2,1020078,CUST_234_PI416408490,1728,"discs, large homolog 2 (Drosophila)",1740.0,11
+DNAH17,1029339,CUST_3091_PI416261804,8563,"dynein, axonemal, heavy chain 17",8632.0,17
+DNAH17,1029340,A_24_P195272,8563,"dynein, axonemal, heavy chain 17",8632.0,17
+DNASE1L1,1057592,A_24_P6305,1762,deoxyribonuclease I-like 1,1774.0,X
+DNASE1L1,1057593,A_23_P85164,1762,deoxyribonuclease I-like 1,1774.0,X
+DNM1L,1026402,A_23_P204324,9914,dynamin 1-like,10059.0,12
+DNM1L,1026403,A_24_P176044,9914,dynamin 1-like,10059.0,12
+DNM1L,1026404,A_24_P743907,9914,dynamin 1-like,10059.0,12
+DPP6,1021964,A_23_P170888,1792,dipeptidyl-peptidase 6,1804.0,7
+DPP6,1021965,A_24_P6552,1792,dipeptidyl-peptidase 6,1804.0,7
+DPP6,1021966,CUST_238_PI416408490,1792,dipeptidyl-peptidase 6,1804.0,7
+DPP6,1025983,A_32_P175900,1792,dipeptidyl-peptidase 6,1804.0,7
+DYRK1A,1026233,A_23_P211126,1847,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A,1859.0,21
+DYRK1A,1026234,A_24_P62169,1847,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A,1859.0,21
+DYRK1A,1026235,A_24_P322753,1847,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A,1859.0,21
+ELOVL7,1014431,A_24_P32473,55795,ELOVL fatty acid elongase 7,79993.0,5
+ELOVL7,1017481,A_23_P359277,55795,ELOVL fatty acid elongase 7,79993.0,5
+FAM171A2,1013916,CUST_986_PI416573500,94166,"family with sequence similarity 171, member A2",284069.0,17
+FAM171A2,1017989,CUST_1017_PI416379584,94166,"family with sequence similarity 171, member A2",284069.0,17
+FAM47E,1011673,CUST_8421_PI416261804,1000756,"family with sequence similarity 47, member E",100129583.0,4
+FAM47E,1015924,A_32_P83811,1000756,"family with sequence similarity 47, member E",100129583.0,4
+FASN,1057064,A_23_P44132,2179,fatty acid synthase,2194.0,17
+FASN,1057065,CUST_14284_PI416261804,2179,fatty acid synthase,2194.0,17
+FBRSL1,1014256,A_24_P280497,36939,fibrosin-like 1,57666.0,12
+FBRSL1,1015696,A_23_P368934,36939,fibrosin-like 1,57666.0,12
+FCGR2A,1019379,A_23_P85716,2197,"Fc fragment of IgG, low affinity IIa, receptor (CD32)",2212.0,1
+FCGR2B,1026970,A_23_P34644,2198,"Fc fragment of IgG, low affinity IIb, receptor (CD32)",2213.0,1
+FCGR2B,1026971,CUST_14535_PI416261804,2198,"Fc fragment of IgG, low affinity IIb, receptor (CD32)",2213.0,1
+FCGR3B,1057035,CUST_15193_PI416261804,2200,"Fc fragment of IgG, low affinity IIIb, receptor (CD16b)",2215.0,1
+FGD4,1035818,A_24_P158946,78848,"FYVE, RhoGEF and PH domain containing 4",121512.0,12
+FGD4,1035819,A_24_P914639,78848,"FYVE, RhoGEF and PH domain containing 4",121512.0,12
+FGD4,1064628,A_24_P937325,78848,"FYVE, RhoGEF and PH domain containing 4",121512.0,12
+FYN,1029625,A_23_P502142,2518,"FYN oncogene related to SRC, FGR, YES",2534.0,6
+FYN,1029626,CUST_16124_PI416261804,2518,"FYN oncogene related to SRC, FGR, YES",2534.0,6
+FYN,1029627,CUST_268_PI416408490,2518,"FYN oncogene related to SRC, FGR, YES",2534.0,6
+GAK,1056538,A_24_P397150,2564,cyclin G associated kinase,2580.0,4
+GAK,1056539,A_23_P155700,2564,cyclin G associated kinase,2580.0,4
+GALNT14,1039165,A_23_P67847,55426,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 14 (GalNAc-T14),79623.0,2
+GALNT14,1039166,CUST_16508_PI416261804,55426,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 14 (GalNAc-T14),79623.0,2
+GALNT9,1013164,CUST_7775_PI416261804,30104,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9 (GalNAc-T9),50614.0,12
+GALNT9,1013937,CUST_7778_PI416261804,30104,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9 (GalNAc-T9),50614.0,12
+GALNT9,1018522,A_23_P252462,30104,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9 (GalNAc-T9),50614.0,12
+GALNT9,1063388,CUST_3779_PI416261804,30104,UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9 (GalNAc-T9),50614.0,12
+GBF1,1049375,A_23_P161237,8658,golgi brefeldin A resistant guanine nucleotide exchange factor 1,8729.0,10
+GBF1,1049376,CUST_12730_PI416261804,8658,golgi brefeldin A resistant guanine nucleotide exchange factor 1,8729.0,10
+GCH1,1029868,A_24_P167642,2627,GTP cyclohydrolase 1,2643.0,14
+GCH1,1029869,CUST_15355_PI416261804,2627,GTP cyclohydrolase 1,2643.0,14
+GCH1,1029901,CUST_15354_PI416261804,2627,GTP cyclohydrolase 1,2643.0,14
+GCH1,1030010,CUST_15352_PI416261804,2627,GTP cyclohydrolase 1,2643.0,14
+GCH1,1056474,A_23_P163079,2627,GTP cyclohydrolase 1,2643.0,14
+GJA5,1024400,A_23_P371729,2686,"gap junction protein, alpha 5, 40kDa",2702.0,1
+GJA5,1024401,CUST_4734_PI416261804,2686,"gap junction protein, alpha 5, 40kDa",2702.0,1
+GJA5,1056413,CUST_9601_PI416261804,2686,"gap junction protein, alpha 5, 40kDa",2702.0,1
+GPM6B,1023580,CUST_1352_PI416379584,2807,glycoprotein M6B,2824.0,X
+GPM6B,1056269,A_23_P378416,2807,glycoprotein M6B,2824.0,X
+GPM6B,1056270,CUST_15339_PI416261804,2807,glycoprotein M6B,2824.0,X
+GPM6B,1056271,CUST_15338_PI416261804,2807,glycoprotein M6B,2824.0,X
+GPNMB,1024151,A_23_P134426,10310,glycoprotein (transmembrane) nmb,10457.0,7
+GPNMB,1024152,CUST_16436_PI416261804,10310,glycoprotein (transmembrane) nmb,10457.0,7
+GPR65,1049669,A_23_P14564,8413,G protein-coupled receptor 65,8477.0,14
+GPR65,1049670,CUST_14959_PI416261804,8413,G protein-coupled receptor 65,8477.0,14
+GPRIN3,1021672,A_24_P76649,94594,GPRIN family member 3,285513.0,4
+GPRIN3,1021673,CUST_390_PI416261804,94594,GPRIN family member 3,285513.0,4
+GUSBP2,1010976,A_32_P92654,122133,"glucuronidase, beta pseudogene 2",387036.0,6
+HEATR6,1040127,A_23_P77965,40540,HEAT repeat containing 6,63897.0,17
+HEATR6,1040128,CUST_1458_PI416261804,40540,HEAT repeat containing 6,63897.0,17
+HIP1R,1049068,A_23_P398294,8906,huntingtin interacting protein 1 related,9026.0,12
+HIP1R,1049069,A_24_P229164,8906,huntingtin interacting protein 1 related,9026.0,12
+HLA-DQA1,1018703,CUST_4646_PI416261804,3099,"major histocompatibility complex, class II, DQ alpha 1",3117.0,6
+HLA-DQA1,1021190,A_24_P326084,3099,"major histocompatibility complex, class II, DQ alpha 1",3117.0,6
+HLA-DQA1,1055658,A_24_P196827,3099,"major histocompatibility complex, class II, DQ alpha 1",3117.0,6
+HLA-DQA1,1055659,CUST_3141_PI416261804,3099,"major histocompatibility complex, class II, DQ alpha 1",3117.0,6
+HLA-DQA1,1055660,A_24_P393230,3099,"major histocompatibility complex, class II, DQ alpha 1",3117.0,6
+HLA-DQB1,1055654,A_23_P136683,3101,"major histocompatibility complex, class II, DQ beta 1",3119.0,6
+HLA-DQB1,1055655,A_24_P239676,3101,"major histocompatibility complex, class II, DQ beta 1",3119.0,6
+HLA-DRA,1055652,A_32_P115555,3104,"major histocompatibility complex, class II, DR alpha",3122.0,6
+HLA-DRA,1055653,A_32_P87697,3104,"major histocompatibility complex, class II, DR alpha",3122.0,6
+HLA-DRB1,1055650,A_24_P343233,3105,"major histocompatibility complex, class II, DR beta 1",3123.0,6
+HLA-DRB1,1055651,A_23_P31006,3105,"major histocompatibility complex, class II, DR beta 1",3123.0,6
+INPP5F,1046229,A_24_P4426,22632,inositol polyphosphate-5-phosphatase F,22876.0,10
+INPP5F,1046230,A_23_P35684,22632,inositol polyphosphate-5-phosphatase F,22876.0,10
+IP6K2,1030752,A_23_P301133,30928,inositol hexakisphosphate kinase 2,51447.0,3
+IP6K2,1030753,A_23_P301138,30928,inositol hexakisphosphate kinase 2,51447.0,3
+IP6K2,1030791,A_23_P6836,30928,inositol hexakisphosphate kinase 2,51447.0,3
+IP6K2,1030792,CUST_13640_PI416261804,30928,inositol hexakisphosphate kinase 2,51447.0,3
+IQCJ,1021047,CUST_1164_PI416379584,180697,IQ motif containing J,654502.0,3
+IQCJ,1021142,CUST_1165_PI416379584,180697,IQ motif containing J,654502.0,3
+IQCJ,1021143,CUST_1127_PI416573500,180697,IQ motif containing J,654502.0,3
+IQCJ,1021144,CUST_1128_PI416573500,180697,IQ motif containing J,654502.0,3
+IQCJ-SCHIP1,1044119,A_32_P62863,29703,schwannomin interacting protein 1,29970.0,3
+IQCJ-SCHIP1,1044120,CUST_10207_PI416261804,29703,schwannomin interacting protein 1,29970.0,3
+IRS2,1049467,A_24_P207003,8591,insulin receptor substrate 2,8660.0,13
+IRS2,1049468,A_23_P53838,8591,insulin receptor substrate 2,8660.0,13
+IRS2,1049469,A_24_P154037,8591,insulin receptor substrate 2,8660.0,13
+ITGA2B,1054940,A_23_P77971,3649,"integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)",3674.0,17
+ITGA2B,1054941,A_24_P65373,3649,"integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)",3674.0,17
+ITGA8,1049617,A_23_P46781,8450,"integrin, alpha 8",8516.0,10
+ITGA8,1049618,CUST_5678_PI416261804,8450,"integrin, alpha 8",8516.0,10
+ITGAE,1054931,A_23_P218375,3657,"integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)",3682.0,17
+ITGAE,1054932,CUST_13181_PI416261804,3657,"integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)",3682.0,17
+ITIH1,1054912,A_23_P18223,3672,inter-alpha-trypsin inhibitor heavy chain 1,3697.0,3
+ITIH1,1054913,A_24_P136905,3672,inter-alpha-trypsin inhibitor heavy chain 1,3697.0,3
+ITPKB,1054898,A_23_P372255,3682,inositol-trisphosphate 3-kinase B,3707.0,1
+ITPKB,1054899,CUST_7737_PI416261804,3682,inositol-trisphosphate 3-kinase B,3707.0,1
+KCNIP3,1022417,A_23_P356004,29809,"Kv channel interacting protein 3, calsenilin",30818.0,2
+KCNIP3,1022418,CUST_382_PI416408490,29809,"Kv channel interacting protein 3, calsenilin",30818.0,2
+KCNIP3,1022419,CUST_11026_PI416261804,29809,"Kv channel interacting protein 3, calsenilin",30818.0,2
+KCNN3,1027249,A_23_P126167,3757,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3",3782.0,1
+KCNN3,1027250,CUST_15116_PI416261804,3757,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3",3782.0,1
+KCNN3,1027251,CUST_15115_PI416261804,3757,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3",3782.0,1
+KCNS3,1054772,A_23_P120103,3765,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3",3790.0,2
+KCNS3,1054773,CUST_405_PI416408490,3765,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3",3790.0,2
+KCNS3,1054774,CUST_6474_PI416261804,3765,"potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3",3790.0,2
+KLHDC1,1035775,A_23_P422766,78916,kelch domain containing 1,122773.0,14
+KLHDC1,1035776,A_32_P164513,78916,kelch domain containing 1,122773.0,14
+KLHL7,1025738,A_23_P324994,35260,kelch-like 7 (Drosophila),55975.0,7
+KLHL7,1025739,A_24_P295050,35260,kelch-like 7 (Drosophila),55975.0,7
+KLHL7,1063321,A_23_P215517,35260,kelch-like 7 (Drosophila),55975.0,7
+KNTC1,1048212,A_23_P136817,9591,kinetochore associated 1,9735.0,12
+KNTC1,1048213,CUST_6725_PI416261804,9591,kinetochore associated 1,9735.0,12
+KPNA1,1015121,CUST_209_PI417507815,3811,karyopherin alpha 1 (importin alpha 5),3836.0,3
+KPNA1,1020579,A_23_P351055,3811,karyopherin alpha 1 (importin alpha 5),3836.0,3
+KPNA3,1054722,A_23_P139950,3814,karyopherin alpha 3 (importin alpha 4),3839.0,13
+KPNA3,1054723,CUST_9760_PI416261804,3814,karyopherin alpha 3 (importin alpha 4),3839.0,13
+KRTCAP2,1033536,A_23_P149249,83539,keratinocyte associated protein 2,200185.0,1
+KRTCAP2,1033537,CUST_1126_PI416261804,83539,keratinocyte associated protein 2,200185.0,1
+KTN1,1011820,CUST_10474_PI416261804,3870,kinectin 1 (kinesin receptor),3895.0,14
+KTN1,1017307,A_23_P106131,3870,kinectin 1 (kinesin receptor),3895.0,14
+KTN1,1054651,CUST_10471_PI416261804,3870,kinectin 1 (kinesin receptor),3895.0,14
+LAMP3,1044682,A_23_P29773,26819,lysosomal-associated membrane protein 3,27074.0,3
+LAMP3,1044683,CUST_14290_PI416261804,26819,lysosomal-associated membrane protein 3,27074.0,3
+LHFPL2,1047730,A_23_P255104,10038,lipoma HMGIC fusion partner-like 2,10184.0,5
+LHFPL2,1047731,A_24_P349092,10038,lipoma HMGIC fusion partner-like 2,10184.0,5
+LINC00326,1012240,CUST_11595_PI416261804,94661,long intergenic non-protein coding RNA 326,285735.0,6
+LINC00326,1017951,A_24_P601831,94661,long intergenic non-protein coding RNA 326,285735.0,6
+LMNA,1023738,A_24_P162718,3975,lamin A/C,4000.0,1
+LMNA,1023739,CUST_15490_PI416261804,3975,lamin A/C,4000.0,1
+LMNA,1054551,A_23_P34835,3975,lamin A/C,4000.0,1
+LRP1B,1043072,A_23_P5342,32833,low density lipoprotein receptor-related protein 1B,53353.0,2
+LRP1B,1043073,CUST_16397_PI416261804,32833,low density lipoprotein receptor-related protein 1B,53353.0,2
+LRP8,1024086,CUST_439_PI416408490,7758,"low density lipoprotein receptor-related protein 8, apolipoprotein e receptor",7804.0,1
+LRP8,1050104,A_23_P200222,7758,"low density lipoprotein receptor-related protein 8, apolipoprotein e receptor",7804.0,1
+LRP8,1050105,A_23_P34325,7758,"low density lipoprotein receptor-related protein 8, apolipoprotein e receptor",7804.0,1
+LRRC37A4P,1015072,A_32_P5571,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1015124,A_24_P238143,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1015247,A_24_P666482,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1015252,A_23_P4101,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1020297,A_24_P579984,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1022598,CUST_4146_PI416261804,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRC37A4P,1070359,A_32_P116481,34362,"leucine rich repeat containing 37, member A4, pseudogene",55073.0,17
+LRRK2,1022614,A_23_P128447,78809,leucine-rich repeat kinase 2,120892.0,12
+LRRK2,1022615,CUST_15588_PI416261804,78809,leucine-rich repeat kinase 2,120892.0,12
+LRRK2,1022616,CUST_442_PI416408490,78809,leucine-rich repeat kinase 2,120892.0,12
+LRRN2,1024046,A_23_P11843,10299,leucine rich repeat neuronal 2,10446.0,1
+LRRN2,1024047,CUST_1890_PI416261804,10299,leucine rich repeat neuronal 2,10446.0,1
+LRRN2,1047393,CUST_1370_PI416261804,10299,leucine rich repeat neuronal 2,10446.0,1
+MAP4K4,1030502,A_23_P90804,9311,mitogen-activated protein kinase kinase kinase kinase 4,9448.0,2
+MAP4K4,1030503,A_24_P157165,9311,mitogen-activated protein kinase kinase kinase kinase 4,9448.0,2
+MAP4K4,1030504,A_23_P108604,9311,mitogen-activated protein kinase kinase kinase kinase 4,9448.0,2
+MAP4K4,1030505,A_23_P102192,9311,mitogen-activated protein kinase kinase kinase kinase 4,9448.0,2
+MAPT,1010837,A_24_P224488,4112,microtubule-associated protein tau,4137.0,17
+MAPT,1012542,A_32_P143793,4112,microtubule-associated protein tau,4137.0,17
+MAPT,1014908,A_23_P207699,4112,microtubule-associated protein tau,4137.0,17
+MAPT,1020634,CUST_449_PI416408490,4112,microtubule-associated protein tau,4137.0,17
+MAPT-AS1,1063807,A_24_P127174,1006871,MAPT antisense RNA 1 (non-protein coding),100128977.0,17
+MBNL2,1026724,A_24_P56317,10005,muscleblind-like splicing regulator 2,10150.0,13
+MBNL2,1026725,A_23_P204979,10005,muscleblind-like splicing regulator 2,10150.0,13
+MCCC1,1041094,A_23_P58036,36201,methylcrotonoyl-CoA carboxylase 1 (alpha),56922.0,3
+MCCC1,1041095,CUST_7712_PI416261804,36201,methylcrotonoyl-CoA carboxylase 1 (alpha),56922.0,3
+MED12L,1036005,A_32_P701268,78238,mediator complex subunit 12-like,116931.0,3
+MED12L,1036006,CUST_12507_PI416261804,78238,mediator complex subunit 12-like,116931.0,3
+MED13,1047969,A_23_P27247,9825,mediator complex subunit 13,9969.0,17
+MED13,1047970,A_24_P17077,9825,mediator complex subunit 13,9969.0,17
+METTL13,1029408,A_23_P201672,31083,methyltransferase like 13,51603.0,1
+METTL13,1029409,A_23_P201676,31083,methyltransferase like 13,51603.0,1
+MIPOL1,1034741,A_23_P300867,80427,mirror-image polydactyly 1,145282.0,14
+MIPOL1,1034742,CUST_10377_PI416261804,80427,mirror-image polydactyly 1,145282.0,14
+MMRN1,1046181,A_23_P18539,22671,multimerin 1,22915.0,4
+MMRN1,1046182,CUST_12208_PI416261804,22671,multimerin 1,22915.0,4
+MORN1,1038820,A_24_P165205,55708,MORN repeat containing 1,79906.0,1
+MORN1,1038821,CUST_89_PI416261804,55708,MORN repeat containing 1,79906.0,1
+MRPL1,1039604,A_23_P84821,41532,mitochondrial ribosomal protein L1,65008.0,4
+MRPL1,1039605,CUST_5113_PI416261804,41532,mitochondrial ribosomal protein L1,65008.0,4
+MSR1,1023451,A_24_P372223,4455,macrophage scavenger receptor 1,4481.0,8
+MSR1,1023452,A_23_P216176,4455,macrophage scavenger receptor 1,4481.0,8
+MSR1,1023453,CUST_15763_PI416261804,4455,macrophage scavenger receptor 1,4481.0,8
+MSR1,1054033,A_23_P392942,4455,macrophage scavenger receptor 1,4481.0,8
+MTF2,1046288,A_23_P46333,22579,metal response element binding transcription factor 2,22823.0,1
+MTF2,1046289,CUST_2197_PI416261804,22579,metal response element binding transcription factor 2,22823.0,1
+MUC12,1015514,CUST_4556_PI416261804,9926,"mucin 12, cell surface associated",10071.0,7
+MUC12,1025233,CUST_4201_PI416261804,9926,"mucin 12, cell surface associated",10071.0,7
+MUC12,1025234,CUST_4195_PI416261804,9926,"mucin 12, cell surface associated",10071.0,7
+MUC12,1025235,CUST_4182_PI416261804,9926,"mucin 12, cell surface associated",10071.0,7
+MUC12,1047868,CUST_4614_PI416261804,9926,"mucin 12, cell surface associated",10071.0,7
+MUC19,1069887,A_23_P434374,93967,"mucin 19, oligomeric",283463.0,12
+MYLK2,1037087,A_23_P80008,59536,myosin light chain kinase 2,85366.0,20
+MYLK2,1037088,CUST_9194_PI416261804,59536,myosin light chain kinase 2,85366.0,20
+NDUFAF2,1036662,A_32_P49555,60119,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 2",91942.0,5
+NDUFAF2,1036663,A_23_P360983,60119,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 2",91942.0,5
+NDUFAF2,1036664,A_23_P345942,60119,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 2",91942.0,5
+NOD2,1039983,A_23_P420863,40760,nucleotide-binding oligomerization domain containing 2,64127.0,16
+NOD2,1039984,CUST_15993_PI416261804,40760,nucleotide-binding oligomerization domain containing 2,64127.0,16
+NOL4,1049390,A_23_P416766,8644,nucleolar protein 4,8715.0,18
+NOL4,1049391,A_32_P126733,8644,nucleolar protein 4,8715.0,18
+NRBP1,1044129,A_23_P165442,29692,nuclear receptor binding protein 1,29959.0,2
+NRBP1,1044130,CUST_684_PI416261804,29692,nuclear receptor binding protein 1,29959.0,2
+NSF,1053553,A_23_P15714,4874,N-ethylmaleimide-sensitive factor,4905.0,17
+NSF,1053554,A_24_P221634,4874,N-ethylmaleimide-sensitive factor,4905.0,17
+NUCKS1,1039781,A_24_P374652,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039782,A_24_P145122,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039783,A_23_P149724,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039784,A_24_P925222,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039785,A_24_P919789,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039786,A_24_P216968,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+NUCKS1,1039787,A_24_P216964,41285,nuclear casein kinase and cyclin-dependent kinase substrate 1,64710.0,1
+P2RX5,1029745,A_23_P433785,4994,"purinergic receptor P2X, ligand-gated ion channel, 5",5026.0,17
+P2RX5,1029961,CUST_6425_PI416261804,4994,"purinergic receptor P2X, ligand-gated ion channel, 5",5026.0,17
+P2RX5,1029962,A_23_P413760,4994,"purinergic receptor P2X, ligand-gated ion channel, 5",5026.0,17
+PAM,1053360,A_23_P213678,5034,peptidylglycine alpha-amidating monooxygenase,5066.0,5
+PAM,1053361,A_32_P121944,5034,peptidylglycine alpha-amidating monooxygenase,5066.0,5
+PAM,1053362,A_24_P97703,5034,peptidylglycine alpha-amidating monooxygenase,5066.0,5
+PAM,1053363,A_24_P933704,5034,peptidylglycine alpha-amidating monooxygenase,5066.0,5
+PARP9,1012605,CUST_13710_PI416261804,57908,"poly (ADP-ribose) polymerase family, member 9",83666.0,3
+PARP9,1014893,CUST_1245_PI416379584,57908,"poly (ADP-ribose) polymerase family, member 9",83666.0,3
+PARP9,1017969,A_23_P69383,57908,"poly (ADP-ribose) polymerase family, member 9",83666.0,3
+PARP9,1019052,CUST_1206_PI416573500,57908,"poly (ADP-ribose) polymerase family, member 9",83666.0,3
+PBXIP1,1040725,A_24_P79808,36601,pre-B-cell leukemia homeobox interacting protein 1,57326.0,1
+PCGF3,1047531,A_24_P388632,10189,polycomb group ring finger 3,10336.0,4
+PCGF3,1047532,A_23_P396777,10189,polycomb group ring finger 3,10336.0,4
+PCGF3,1047533,A_24_P566968,10189,polycomb group ring finger 3,10336.0,4
+PCGF3,1047534,A_23_P21346,10189,polycomb group ring finger 3,10336.0,4
+PDE5A,1023660,A_24_P911678,8585,"phosphodiesterase 5A, cGMP-specific",8654.0,4
+PDE5A,1029314,A_23_P500844,8585,"phosphodiesterase 5A, cGMP-specific",8654.0,4
+PDE5A,1029315,CUST_11485_PI416261804,8585,"phosphodiesterase 5A, cGMP-specific",8654.0,4
+PDGFB,1025515,A_24_P339944,5123,platelet-derived growth factor beta polypeptide,5155.0,22
+PDGFB,1025516,CUST_14345_PI416261804,5123,platelet-derived growth factor beta polypeptide,5155.0,22
+PDLIM2,1030473,CUST_1291_PI416379584,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PDLIM2,1030474,CUST_14277_PI416261804,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PDLIM2,1030475,CUST_1251_PI416573500,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PDLIM2,1030506,A_24_P160380,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PDLIM2,1030507,A_23_P20285,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PDLIM2,1063413,A_24_P290609,40869,PDZ and LIM domain 2 (mystique),64236.0,8
+PIK3CA,1053064,A_23_P92057,5258,"phosphoinositide-3-kinase, catalytic, alpha polypeptide",5290.0,3
+PIK3CA,1053065,CUST_15807_PI416261804,5258,"phosphoinositide-3-kinase, catalytic, alpha polypeptide",5290.0,3
+PITPNM2,1040522,A_23_P403542,36878,"phosphatidylinositol transfer protein, membrane-associated 2",57605.0,12
+PITPNM2,1040523,A_23_P401361,36878,"phosphatidylinositol transfer protein, membrane-associated 2",57605.0,12
+PKP2,1028774,A_23_P162466,5286,plakophilin 2,5318.0,12
+PKP2,1028775,CUST_14247_PI416261804,5286,plakophilin 2,5318.0,12
+PKP2,1068149,A_24_P133288,5286,plakophilin 2,5318.0,12
+PLEKHM1,1014469,A_23_P164112,9698,"pleckstrin homology domain containing, family M (with RUN domain) member 1",9842.0,17
+PLEKHM1,1015773,A_23_P152727,9698,"pleckstrin homology domain containing, family M (with RUN domain) member 1",9842.0,17
+PLEKHM1,1019528,A_24_P49514,9698,"pleckstrin homology domain containing, family M (with RUN domain) member 1",9842.0,17
+PLEKHM1,1020046,CUST_9651_PI416261804,9698,"pleckstrin homology domain containing, family M (with RUN domain) member 1",9842.0,17
+PMVK,1047114,A_23_P114774,10507,phosphomevalonate kinase,10654.0,1
+PMVK,1047115,CUST_16745_PI416261804,10507,phosphomevalonate kinase,10654.0,1
+PRDM15,1021358,CUST_4340_PI416261804,40613,PR domain containing 15,63977.0,21
+PRDM15,1021359,A_24_P194337,40613,PR domain containing 15,63977.0,21
+PRDM15,1021360,CUST_2069_PI416261804,40613,PR domain containing 15,63977.0,21
+PRDM15,1065382,A_32_P145989,40613,PR domain containing 15,63977.0,21
+RAB25,1040843,A_23_P115091,36389,"RAB25, member RAS oncogene family",57111.0,1
+RAB25,1040844,CUST_10373_PI416261804,36389,"RAB25, member RAS oncogene family",57111.0,1
+RABEP2,1038854,A_23_P61100,55677,"rabaptin, RAB GTPase binding effector protein 2",79874.0,16
+RABEP2,1038855,CUST_5307_PI416261804,55677,"rabaptin, RAB GTPase binding effector protein 2",79874.0,16
+RBMS3,1027165,A_32_P228618,27048,"RNA binding motif, single stranded interacting protein 3",27303.0,3
+RBMS3,1027166,A_23_P10995,27048,"RNA binding motif, single stranded interacting protein 3",27303.0,3
+RBMS3,1027167,A_24_P359942,27048,"RNA binding motif, single stranded interacting protein 3",27303.0,3
+RILPL2,1033620,A_23_P76109,83406,Rab interacting lysosomal protein-like 2,196383.0,12
+RILPL2,1033621,CUST_2047_PI416261804,83406,Rab interacting lysosomal protein-like 2,196383.0,12
+RIMS1,1046115,A_23_P432110,22754,regulating synaptic membrane exocytosis 1,22999.0,6
+RIMS1,1046116,CUST_13778_PI416261804,22754,regulating synaptic membrane exocytosis 1,22999.0,6
+RIMS2,1013694,A_23_P147786,9555,regulating synaptic membrane exocytosis 2,9699.0,8
+RIMS2,1014746,A_24_P222000,9555,regulating synaptic membrane exocytosis 2,9699.0,8
+RIMS2,1015006,A_24_P332816,9555,regulating synaptic membrane exocytosis 2,9699.0,8
+RIMS2,1020609,CUST_38_PI416408490,9555,regulating synaptic membrane exocytosis 2,9699.0,8
+RIT1,1052172,A_23_P316601,5984,Ras-like without CAAX 1,6016.0,1
+RIT1,1052174,A_23_P115052,5984,Ras-like without CAAX 1,6016.0,1
+RIT2,1052175,A_23_P170050,5982,Ras-like without CAAX 2,6014.0,18
+RIT2,1052176,CUST_6645_PI416261804,5982,Ras-like without CAAX 2,6014.0,18
+RNF141,1043920,A_24_P372625,30346,ring finger protein 141,50862.0,11
+RNF141,1043922,A_23_P139066,30346,ring finger protein 141,50862.0,11
+RORA,1024340,A_23_P26124,6063,RAR-related orphan receptor A,6095.0,15
+RORA,1024341,A_32_P7721,6063,RAR-related orphan receptor A,6095.0,15
+RPL10,1052085,A_23_P217666,6102,ribosomal protein L10,6134.0,X
+RPL10,1052086,A_24_P754803,6102,ribosomal protein L10,6134.0,X
+RPL10,1052087,A_32_P161166,6102,ribosomal protein L10,6134.0,X
+RPL13AP3,1012847,CUST_162_PI417507815,166802,ribosomal protein L13a pseudogene 3,645683.0,14
+RPL3,1052118,A_23_P68942,6090,ribosomal protein L3,6122.0,22
+RPL3,1052119,A_32_P176344,6090,ribosomal protein L3,6122.0,22
+RPS6KL1,1038074,A_24_P219108,57936,ribosomal protein S6 kinase-like 1,83694.0,14
+RPS6KL1,1038075,A_24_P153547,57936,ribosomal protein S6 kinase-like 1,83694.0,14
+SCARB2,1058448,A_23_P386514,945,"scavenger receptor class B, member 2",950.0,4
+SCARB2,1058449,A_24_P54879,945,"scavenger receptor class B, member 2",950.0,4
+SCN2A,1022204,CUST_547_PI416408490,6291,"sodium channel, voltage-gated, type II, alpha subunit",6326.0,2
+SCN2A,1022205,A_23_P51019,6291,"sodium channel, voltage-gated, type II, alpha subunit",6326.0,2
+SCN2A,1022206,CUST_16292_PI416261804,6291,"sodium channel, voltage-gated, type II, alpha subunit",6326.0,2
+SCN2A,1022207,CUST_548_PI416408490,6291,"sodium channel, voltage-gated, type II, alpha subunit",6326.0,2
+SEC23IP,1046486,A_23_P202602,11036,SEC23 interacting protein,11196.0,10
+SEC23IP,1046487,A_24_P227017,11036,SEC23 interacting protein,11196.0,10
+SEMA4A,1039940,A_23_P23438,40851,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A",64218.0,1
+SEMA4A,1039941,CUST_863_PI416261804,40851,"sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A",64218.0,1
+SETD1A,1023898,A_23_P129678,9595,SET domain containing 1A,9739.0,16
+SETD1A,1023899,CUST_10043_PI416261804,9595,SET domain containing 1A,9739.0,16
+SH2B1,1013795,CUST_11979_PI416261804,25719,SH2B adaptor protein 1,25970.0,16
+SH2B1,1019011,A_24_P185029,25719,SH2B adaptor protein 1,25970.0,16
+SH3GL2,1051629,A_23_P169351,6420,SH3-domain GRB2-like 2,6456.0,9
+SH3GL2,1051630,CUST_10871_PI416261804,6420,SH3-domain GRB2-like 2,6456.0,9
+SIPA1L2,1040561,A_23_P137470,36841,signal-induced proliferation-associated 1 like 2,57568.0,1
+SIPA1L2,1040562,CUST_5402_PI416261804,36841,signal-induced proliferation-associated 1 like 2,57568.0,1
+SLC25A44,1048289,CUST_7482_PI416261804,9529,"solute carrier family 25, member 44",9673.0,1
+SLC25A44,1048290,CUST_3312_PI416261804,9529,"solute carrier family 25, member 44",9673.0,1
+SLC25A44,1048291,A_24_P312325,9529,"solute carrier family 25, member 44",9673.0,1
+SLC2A13,1036278,A_23_P10211,76986,"solute carrier family 2 (facilitated glucose transporter), member 13",114134.0,12
+SLC2A13,1036279,A_32_P199801,76986,"solute carrier family 2 (facilitated glucose transporter), member 13",114134.0,12
+SLC2A13,1036280,A_24_P924816,76986,"solute carrier family 2 (facilitated glucose transporter), member 13",114134.0,12
+SLC38A1,1011006,A_24_P261734,57247,"solute carrier family 38, member 1",81539.0,12
+SLC38A1,1020708,A_23_P363399,57247,"solute carrier family 38, member 1",81539.0,12
+SLC41A1,1032909,A_24_P122732,90193,"solute carrier family 41, member 1",254428.0,1
+SLC41A1,1032910,A_23_P368182,90193,"solute carrier family 41, member 1",254428.0,1
+SLC44A4,1038467,A_23_P93349,56510,"solute carrier family 44, member 4",80736.0,6
+SLC44A4,1038468,A_24_P684183,56510,"solute carrier family 44, member 4",80736.0,6
+SMAD4,1054430,A_23_P27346,4064,SMAD family member 4,4089.0,18
+SMAD4,1054431,CUST_15879_PI416261804,4064,SMAD family member 4,4089.0,18
+SNCA,1010655,A_32_P109653,6582,"synuclein, alpha (non A4 component of amyloid precursor)",6622.0,4
+SNCA,1020182,A_23_P29939,6582,"synuclein, alpha (non A4 component of amyloid precursor)",6622.0,4
+SORBS2,1029199,A_23_P121795,8408,sorbin and SH3 domain containing 2,8470.0,4
+SORBS2,1029200,A_24_P140475,8408,sorbin and SH3 domain containing 2,8470.0,4
+SORBS2,1068745,A_24_P912136,8408,sorbin and SH3 domain containing 2,8470.0,4
+SPATA19,1033264,A_23_P430718,85590,spermatogenesis associated 19,219938.0,11
+SPATA19,1033265,CUST_214_PI416261804,85590,spermatogenesis associated 19,219938.0,11
+SPATA6,1042808,A_23_P327483,33849,spermatogenesis associated 6,54558.0,1
+SPATA6,1042809,CUST_107_PI416261804,33849,spermatogenesis associated 6,54558.0,1
+SPPL2B,1013582,A_32_P161447,36207,signal peptide peptidase like 2B,56928.0,19
+SPPL2B,1019980,A_23_P79066,36207,signal peptide peptidase like 2B,56928.0,19
+SPTSSB,1021818,A_32_P199551,81667,"serine palmitoyltransferase, small subunit B",165679.0,3
+SPTSSB,1021819,CUST_1107_PI416261804,81667,"serine palmitoyltransferase, small subunit B",165679.0,3
+STK39,1044446,A_23_P90762,27092,serine threonine kinase 39,27347.0,2
+STK39,1044447,A_24_P19544,27092,serine threonine kinase 39,27347.0,2
+STX1B,1036371,A_23_P152462,76608,syntaxin 1B,112755.0,16
+STX1B,1036372,CUST_12338_PI416261804,76608,syntaxin 1B,112755.0,16
+SV2C,1025369,CUST_882_PI416379584,22742,synaptic vesicle glycoprotein 2C,22987.0,5
+SV2C,1025370,CUST_853_PI416573500,22742,synaptic vesicle glycoprotein 2C,22987.0,5
+SV2C,1025371,CUST_618_PI416408490,22742,synaptic vesicle glycoprotein 2C,22987.0,5
+SYT10,1031929,A_23_P13866,109937,synaptotagmin X,341359.0,12
+SYT10,1031930,CUST_1388_PI416261804,109937,synaptotagmin X,341359.0,12
+SYT17,1043121,A_23_P163697,31240,synaptotagmin XVII,51760.0,16
+SYT17,1043122,CUST_636_PI416408490,31240,synaptotagmin XVII,51760.0,16
+SYT17,1043123,CUST_1342_PI416261804,31240,synaptotagmin XVII,51760.0,16
+SYT4,1051007,A_23_P208030,6820,synaptotagmin IV,6860.0,18
+SYT4,1051008,CUST_639_PI416408490,6820,synaptotagmin IV,6860.0,18
+SYT4,1051009,CUST_10907_PI416261804,6820,synaptotagmin IV,6860.0,18
+TAC1,1028377,CUST_16410_PI416261804,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029249,CUST_2040_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029250,CUST_2039_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029251,CUST_2038_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029252,A_24_P38290,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029253,CUST_2037_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029254,CUST_2036_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029255,CUST_2035_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029256,CUST_25_PI416558205,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029257,CUST_26_PI416558205,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029258,CUST_2034_PI417557136,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1029261,CUST_16403_PI416261804,6823,"tachykinin, precursor 1",6863.0,7
+TAC1,1051004,A_23_P215283,6823,"tachykinin, precursor 1",6863.0,7
+TBC1D5,1011556,A_24_P289029,9635,"TBC1 domain family, member 5",9779.0,3
+TBC1D5,1020243,A_23_P355455,9635,"TBC1 domain family, member 5",9779.0,3
+TBXAS1,1019912,A_32_P212886,6876,thromboxane A synthase 1 (platelet),6916.0,7
+TBXAS1,1028035,A_24_P274814,6876,thromboxane A synthase 1 (platelet),6916.0,7
+TBXAS1,1028036,CUST_16570_PI416261804,6876,thromboxane A synthase 1 (platelet),6916.0,7
+TEKT4,1034403,CUST_4578_PI416261804,80897,tektin 4,150483.0,2
+TEKT4,1034404,A_32_P231179,80897,tektin 4,150483.0,2
+TEKT4,1034405,CUST_1909_PI416261804,80897,tektin 4,150483.0,2
+TIAL1,1022190,A_23_P161488,7030,TIA1 cytotoxic granule-associated RNA binding protein-like 1,7073.0,10
+TIAL1,1022191,CUST_7506_PI416261804,7030,TIA1 cytotoxic granule-associated RNA binding protein-like 1,7073.0,10
+TIAL1,1022192,CUST_7505_PI416261804,7030,TIA1 cytotoxic granule-associated RNA binding protein-like 1,7073.0,10
+TMEM108,1039492,A_23_P254688,41843,transmembrane protein 108,66000.0,3
+TMEM108,1039493,A_24_P71781,41843,transmembrane protein 108,66000.0,3
+TMEM108,1061880,A_24_P51016,41843,transmembrane protein 108,66000.0,3
+TMEM163,1038292,A_23_P39550,57297,transmembrane protein 163,81615.0,2
+TMEM163,1038293,CUST_8542_PI416261804,57297,transmembrane protein 163,81615.0,2
+TMEM175,1037692,A_23_P58148,58496,transmembrane protein 175,84286.0,4
+TMEM175,1037693,CUST_588_PI416261804,58496,transmembrane protein 175,84286.0,4
+TPM1,1029651,A_32_P89709,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1029652,A_23_P391586,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1029653,A_23_P206018,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1029654,A_24_P44462,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1029722,CUST_14757_PI416261804,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1030777,A_23_P363344,7125,tropomyosin 1 (alpha),7168.0,15
+TPM1,1030778,CUST_14754_PI416261804,7125,tropomyosin 1 (alpha),7168.0,15
+TRIM40,1035144,A_23_P402778,79645,tripartite motif containing 40,135644.0,6
+TRIM40,1035145,CUST_2217_PI416261804,79645,tripartite motif containing 40,135644.0,6
+TRIM46,1038649,A_23_P46215,55929,tripartite motif containing 46,80128.0,1
+TRIM46,1038650,CUST_934_PI416261804,55929,tripartite motif containing 46,80128.0,1
+TRIM46,1061310,A_23_P46222,55929,tripartite motif containing 46,80128.0,1
+TXNDC15,1038974,A_23_P41777,55573,thioredoxin domain containing 15,79770.0,5
+TXNDC15,1038975,CUST_10984_PI416261804,55573,thioredoxin domain containing 15,79770.0,5
+UBAP2,1041521,A_23_P60472,35121,ubiquitin associated protein 2,55833.0,9
+UBAP2,1041522,CUST_1497_PI416261804,35121,ubiquitin associated protein 2,55833.0,9
+UBQLN4,1041134,A_23_P201059,36172,ubiquilin 4,56893.0,1
+UBQLN4,1041135,CUST_5053_PI416261804,36172,ubiquilin 4,56893.0,1
+UBTF,1011311,A_24_P349616,7300,"upstream binding transcription factor, RNA polymerase I",7343.0,17
+UBTF,1020229,A_23_P100779,7300,"upstream binding transcription factor, RNA polymerase I",7343.0,17
+USP50,1031669,CUST_309_PI416573500,119438,ubiquitin specific peptidase 50,373509.0,15
+USP50,1031670,CUST_317_PI416379584,119438,ubiquitin specific peptidase 50,373509.0,15
+USP8,1014451,CUST_10386_PI416261804,8978,ubiquitin specific peptidase 8,9101.0,15
+USP8,1019894,A_23_P129058,8978,ubiquitin specific peptidase 8,9101.0,15
+VAMP4,1022872,A_23_P61569,8605,vesicle-associated membrane protein 4,8674.0,1
+VAMP4,1022873,CUST_4744_PI416261804,8605,vesicle-associated membrane protein 4,8674.0,1
+VAMP4,1063422,A_24_P942030,8605,vesicle-associated membrane protein 4,8674.0,1
+VN1R10P,1037931,A_23_P300087,122374,vomeronasal 1 receptor 10 pseudogene,387316.0,6
+VN1R10P,1037932,CUST_1700_PI416261804,122374,vomeronasal 1 receptor 10 pseudogene,387316.0,6
+WDHD1,1024873,A_23_P25873,11010,WD repeat and HMG-box DNA binding protein 1,11169.0,14
+WDHD1,1024874,CUST_10452_PI416261804,11010,WD repeat and HMG-box DNA binding protein 1,11169.0,14
+WDHD1,1067761,A_32_P148602,11010,WD repeat and HMG-box DNA binding protein 1,11169.0,14
+WDR41,1042082,A_23_P259521,34544,WD repeat domain 41,55255.0,5
+WDR41,1042083,CUST_289_PI416261804,34544,WD repeat domain 41,55255.0,5
+WNT3,1050353,A_23_P130158,7430,"wingless-type MMTV integration site family, member 3",7473.0,17
+WNT3,1050354,CUST_10005_PI416261804,7430,"wingless-type MMTV integration site family, member 3",7473.0,17
+WWOX,1025804,A_23_P206413,31221,WW domain containing oxidoreductase,51741.0,16
+WWOX,1025805,CUST_16920_PI416261804,31221,WW domain containing oxidoreductase,51741.0,16
+WWOX,1043133,A_23_P83368,31221,WW domain containing oxidoreductase,51741.0,16
+WWOX,1043134,A_23_P71972,31221,WW domain containing oxidoreductase,51741.0,16
+WWOX,1043135,A_24_P116606,31221,WW domain containing oxidoreductase,51741.0,16
+WWOX,1043136,CUST_16727_PI416261804,31221,WW domain containing oxidoreductase,51741.0,16
+XPO1,1050310,A_32_P92714,7471,"exportin 1 (CRM1 homolog, yeast)",7514.0,2
+XPO1,1050311,A_23_P40078,7471,"exportin 1 (CRM1 homolog, yeast)",7514.0,2
+ZNF322,1039074,CUST_2383_PI416261804,55495,zinc finger protein 322,79692.0,6
+ZNF322,1039075,A_32_P206293,55495,zinc finger protein 322,79692.0,6
+ZNF608,1025964,A_23_P169978,36780,zinc finger protein 608,57507.0,5
+ZNF608,1025965,CUST_10363_PI416261804,36780,zinc finger protein 608,57507.0,5

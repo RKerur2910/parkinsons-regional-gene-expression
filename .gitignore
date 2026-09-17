@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Testing and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Raw datasets
+data/allen_human_brain_atlas/
+data/gwas/
+
+# Large derived files
+results/background_regional_gene_expression_matrix.csv
+results/donor_region_gene_expression.csv
+results/regional_gene_expression_long.csv
+results/parkinsons_null_scores.npz
+
+# Temporary files
+*.tmp
+*.temp
+*.log
